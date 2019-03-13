@@ -6,8 +6,10 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Kunal Sharda"
 +++
 
-Hey! I'm a high school student who is interested in a few subjects and decided to restart blogging after my last one went down a few years ago.
+I'm a student who is interested in a few subjects and decided to restart blogging after my last one went down a few years ago.
 
-I'll be posting information about projects I'm working on whether in writing or code as well as my thoughts on current events, etc.
+I'll be posting information about projects I'm working on in writing or code as well as my thoughts on current events, etc.
+
+Overall this is worked on randomly and for fun (hopefully).
 
 Let me know if you have any comments and feel free to email me.

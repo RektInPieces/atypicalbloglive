@@ -1,5 +1,5 @@
 baseURL = "https://atypical.ml"
-title   = "An Atypical Blog"
+title   = "An Atypically Meh Blog"
 
 DefaultContentLanguage = "en"
 
@@ -53,11 +53,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "General Musings about the world"
-  keywords = ""
+  description = "Random Thinking"
+  keywords = "Atypical, Kunal, etc."
   images = [""]
 
-  homeSubtitle = "Random Thinking"
+  homeSubtitle = "Random Work, Thoughts and Other Things"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
