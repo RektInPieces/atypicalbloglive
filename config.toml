@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Kunal Sharda"
+  name = "RektInPieces"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   description = "Random Thinking"
-  keywords = "Atypical, Kunal, etc."
+  keywords = "Atypical, Blog, Tech, etc."
   images = [""]
 
   homeSubtitle = "Random Work, Thoughts and Other Things"
@@ -93,9 +93,6 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/rektinpieces"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/kunal-sharda/"
 
 [languages]
   [languages.en]

@@ -5,6 +5,6 @@ features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
 
 [author]
-  name = "Kunal Sharda"
+  name = "RektInPieces"
 
 

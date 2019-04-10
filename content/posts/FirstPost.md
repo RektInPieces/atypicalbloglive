@@ -1,6 +1,6 @@
 ---
 author:
-  name: "Kunal Sharda"
+  name: "RektInPieces"
 date: 2019-03-06
 linktitle: First Post
 type:
