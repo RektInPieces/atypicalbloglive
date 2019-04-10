@@ -19,7 +19,10 @@ Anki itself is a flash card program that is meant to make memorization easier ov
 It is said to be especially helpful when studying terms for medical school or in learning different languages, but can be beneficial in all sorts of subjects.
 
 It has an algorithm which allows users to efficiently study certain tasks over a large period of time. From its website:
-  Anyone who needs to remember things in their daily life can benefit from Anki. Since it is content-agnostic and supports images, audio, videos and scientific markup (via LaTeX), the possibilities are endless.
+
+  
+*Anyone who needs to remember things in their daily life can benefit from Anki. 
+Since it is content-agnostic and supports images, audio, videos and scientific markup (via LaTeX), the possibilities are endless.*
 
 ## Why isn't it used extensively?
 
