@@ -8,6 +8,7 @@ type:
 - posts
 title: Anki Redesign and Development - Part 1
 weight: 10
+comments: true
 series: 
 - AnkiRedesign
 ---
