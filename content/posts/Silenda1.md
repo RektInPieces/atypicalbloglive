@@ -14,9 +14,13 @@ series:
 ---
 
 ## What is Silenda?
-When I was initially thinking about a new project to start building for fun aside from the work that I do or the projects I have already started, I was a bit stumped on how to proceed. I saw a ton of idea generators and other such things, but ultimately doubled down on something I could use myself. My friends and I play a ton of card games as I'm sure many of those reading right now do. Instead of trying to create a project with set instructions, why not let the people implement any game that involved cards of some sort?
+When I was initially thinking about a new project to build for fun, which would be a welcome break from the work that I do and the other projects that I have already started, I was a bit stumped on how to proceed. 
 
-Thus, Silenda was born: a generic card game building platform. At its core, I am trying to create a simple, yet modular custom card game builder with data integrity and speed being a large part of its design. While I do this, I'd like to release weekly updates on progress, even if it's a simple: "no progress has been done this week." Of course, if anyone is interested in such a project, feel free to contact me at my email on the homepage or leave a comment and I'll get back to you.
+I saw a ton of idea generators and other such things, but ultimately doubled down on something I could use myself. My friends and I play a ton of card games as I'm sure many of those reading right now do. Instead of trying to create a project with set instructions, why not let the people implement any game that involved cards of some sort?
+
+Thus, Silenda was born: a generic card game building platform. At its core, I am trying to create a simple, yet modular custom card game builder with data integrity and speed being a large part of its design. 
+
+While I do this, I'd like to release weekly updates on progress, even if it's a simple: "no progress has been done this week." Of course, if anyone is interested in such a project, feel free to contact me at my email on the homepage or leave a comment and I'll get back to you.
 
 The name was chosen as, in Latin, Silenda means silent, which is how I'd like the transactions to be. Full data provenance and privacy would allow for cheating to be minimized, while maintaining the speed and efficiency of transactions.
 
