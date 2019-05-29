@@ -14,7 +14,7 @@ series:
 ---
 
 ## What is Silenda?
-When we thought about games to implement, we initially were stumped. However, we then realized: why not let the user implement any game?
+When I was initially thinking about a new project to start building for fun aside from the work that I do or the projects I have already started, I was a bit stumped on how to proceed. I saw a ton of idea generators and other such things, but ultimately doubled down on something I could use myself. My friends and I play a ton of card games as I'm sure many of those reading right now do. Instead of trying to create a project with set instructions, why not let the people implement any game that involved cards of some sort?
 
 Thus, Silenda was born: a generic card game building platform. At its core, I am trying to create a simple, yet modular custom card game builder with data integrity and speed being a large part of its design. While I do this, I'd like to release weekly updates on progress, even if it's a simple: "no progress has been done this week." Of course, if anyone is interested in such a project, feel free to contact me at my email on the homepage or leave a comment and I'll get back to you.
 
