@@ -14,12 +14,11 @@ series:
 ---
 
 ## What is Silenda?
+When we thought about games to implement, we initially were stumped. However, we then realized: why not let the user implement any game?
 
-At its core, I am trying to create a simple, yet modular custom card game builder with data integrity being a huge part of it. And while I do this, I'd like to release weekly updates on progress, even if it's a simple: "no progress has been done this week". Of course, if anyone is interested in such a project, feel free to contact me at my email on the homepage or leave a comment and I'll get back to you.
+Thus, Silenda was born: a generic card game building platform. At its core, I am trying to create a simple, yet modular custom card game builder with data integrity and speed being a large part of its design. While I do this, I'd like to release weekly updates on progress, even if it's a simple: "no progress has been done this week." Of course, if anyone is interested in such a project, feel free to contact me at my email on the homepage or leave a comment and I'll get back to you.
 
-Initially, to do this, I was trying to use the Oasis Labs game development kit (which has data anonymized), but found it quite difficult to use due to a relative lack of documentation and integration with other games. Given time, I am assuming that the game kit will improve, but it probably isn't going to be fully featured in the scope of this project. 
-
-In Latin, Silenda means silent, which is how I'd like the transactions to be, having no way to cheat in the game, but maintaining speed and efficiency of transactions.
+The name was chosen as, in Latin, Silenda means silent, which is how I'd like the transactions to be. Full data provenance and privacy would allow for cheating to be minimized, while maintaining the speed and efficiency of transactions.
 
 
 ## Why a card game builder?
@@ -38,14 +37,15 @@ If that can be handled automatically, then it would be much easier for everyone 
 
 
 ## So how are you planning to make it?
+Initially, I was trying to use the Oasis Labs game development kit (which has data anonymized), but found it quite difficult to use due to a relative lack of documentation and integration with other games. Given time, I am assuming that the game kit will improve, but it probably isn't going to be fully featured in the scope of this project. Thus, I decided to pivot off of using Rust and React, which are both very problematic to use anyways. 
 
-I've wanted to do another project in Kotlin for a while, especially for fun. However, I haven't had much of a chance to do so unfortunately, and have just used it for other work.
+For a while, I've been wanting to start another project in Kotlin. However, I haven't had much of a chance to do so, and have just used it for work instead of a personal project or two.
 
-As such, it'd be interesting to implement this in Kotlin, which also has an amazing collections library and is built on the JVM. However, there will probably be some issues with building a decent GUI. Not sure what to use for that yet, but will update on it.
+As such, it'd be interesting to implement this in Kotlin, which  has an amazing collections library and is built on the JVM. As with most JVM languages, there will probably be some issues with building a decent GUI as JavaFX doesn't look superb, but is probably the best option out there. I have looked into TornadoFX for Kotlin, but I am not sure about what library I should use for that yet and will update later.
 
-It is likely also going to be a Webapp that can run on Android, as an App or on a website for the final product. I don't know about IPhones, but if anyone has experience in that, feel free to point me to anything useful that I can learn.
+It is likely also going to be a webapp that can run on Android, as an app, and on a website for the final product. The cross-platform functionality is something I hope to accomplish for the sole reason of allowing people to play this game remotely without much trouble. I don't know about development for Apple products, but if anyone has experience in that, feel free to point me to anything useful that I can learn.
 
-It will probably also be open source so that anyone could help contribute and roast me if I make any errors. I have started to plan it out in a document that I will keep internally for now and will push out some blog posts explaining my rationale, etc. as I go through it.
+It will  also be open source so that anyone could help contribute if they so please and comment if I make any errors. I have started to plan it out in a document that I will keep internally for now and will push out some blog posts explaining my rationale, etc. as I go through it.
 
 
 ## What will be some features?
