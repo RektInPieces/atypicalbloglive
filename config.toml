@@ -1,5 +1,5 @@
-baseURL = "https://atypical.ml"
-title   = "An Atypically Meh Blog"
+baseURL = "https://insensitive.co"
+title   = "An Insensitive Blog"
 
 DefaultContentLanguage = "en"
 
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   description = "Random Thinking"
-  keywords = "Atypical, Blog, Tech, etc."
+  keywords = "Insensitive, Blog, Tech, etc."
   images = [""]
 
   homeSubtitle = "Random Work, Thoughts and Other Things"
