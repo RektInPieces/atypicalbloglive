@@ -13,3 +13,9 @@ I'll be posting information about projects I'm working on and my opinions on cur
 Overall, this is worked on randomly and for enjoyment, so updates may be infrequent.
 
 Let me know if you have any comments and feel free to email me.
+
+Current Active Topics:
+[Silenda](https://insensitive.co/tags/Silenda)
+[Knoweth](https://insensitive.co/tags/Knoweth)
+
+Archived Topics:

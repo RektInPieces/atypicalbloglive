@@ -9,6 +9,7 @@ type:
 title: Silenda Development - Part 1
 weight: 10
 comments: true
+tags: ["Silenda", "Dev", "Java"]
 series: 
 - SilendaDesign
 ---
