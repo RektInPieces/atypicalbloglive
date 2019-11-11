@@ -20,6 +20,22 @@ Hey there! I am a student who is interested in a few subjects, including technol
 
 I’ll be posting information about projects I’m working on and my opinions on current events.
 
+## Current Active Topics:
+[Silenda](https://insensitive.co/tags/silenda)
+[Knoweth](https://insensitive.co/tags/knoweth)
+[Food](https://insensitive.co/tags/food)
+[Travel](https://insensitive.co/tags/travel)
+[Entrepreneurship/Competitions](https://insensitive.co/tags/entrepreneurship)
+
+### Archived Topics:
+[California](https://insensitive.co/tags/california)
+[Summer 2019 Recap](https://insensitive.co/tags/summer2019recap)
+
+## About
+Hey there! I am a student who is interested in a few subjects, including technology, coding, writing and politics, and as such decided to restart blogging after my last one went down a few years ago.
+
+I’ll be posting information about projects I’m working on and my opinions on current events.
+
 Overall, this is worked on randomly and for enjoyment, so updates may be infrequent.
 
 Let me know if you have any comments and feel free to email me.
