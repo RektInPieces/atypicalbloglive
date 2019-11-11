@@ -2,11 +2,11 @@
 author:
   name: "Kunal Sharda"
 date: 2019-08-04
-linktitle: Silenda Development - Part 2
+linktitle: Silenda Development - 2
 type:
 - post
 - posts
-title: Silenda Development - Part 2
+title: Silenda Development - 2
 weight: 10
 comments: true
 tags: ["Silenda", "Dev", "Java"]

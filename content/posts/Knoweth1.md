@@ -2,11 +2,11 @@
 author:
   name: "Kunal Sharda"
 date: 2019-03-12
-linktitle: Knoweth Part 1
+linktitle: Knoweth - 1
 type:
 - post
 - posts
-title: Knoweth - Part 1
+title: Knoweth - 1
 weight: 10
 comments: true
 tags: ["Knoweth", "Dev", "Java"]
