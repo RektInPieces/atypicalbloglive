@@ -4,7 +4,21 @@ date = "2019-03-06"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Kunal Sharda"
-+++
++++  
+
+### Current Active Topics
+- [Silenda](https://insensitive.co/tags/Silenda)
+- [Knoweth](https://insensitive.co/tags/Knoweth)
+- [Food](https://insensitive.co/tags/Food)
+
+### Archived Topics
+- None yet!
+
+### About
+
+Hey there! I am a student who is interested in a few subjects, including technology, coding, writing and politics, and as such decided to restart blogging after my last one went down a few years ago.
+
+I’ll be posting information about projects I’m working on and my opinions on current events.
 
 ## Current Active Topics:
 [Silenda](https://insensitive.co/tags/silenda)
