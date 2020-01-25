@@ -9,7 +9,7 @@ type:
 title: San Francisco - 1 
 weight: 10
 comments: true
-tags: ["California", "Summer2019Recap", "Travel"]
+tags: ["California", "Travel"]
 ---
 
 ## San Francisco - Larger and Hillier than I thought
@@ -20,5 +20,5 @@ Until this point, I hadn't been into California in my life (even though I've hea
 
 While we were a bit busy during the day time with conferences, we did some touring late night, which may have been a poor choice, but honestly led to a better viewing of San Francisco.
 
-# 
+## 
 

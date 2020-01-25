@@ -6,33 +6,23 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Kunal Sharda"
 +++  
 
-### Current Active Topics
-- [Silenda](https://insensitive.co/tags/Silenda)
-- [Knoweth](https://insensitive.co/tags/Knoweth)
-- [Food](https://insensitive.co/tags/Food)
 
-### Archived Topics
-- None yet!
-
-### About
-
-Hey there! I am a student who is interested in a few subjects, including technology, coding, writing and politics, and as such decided to restart blogging after my last one went down a few years ago.
-
-I’ll be posting information about projects I’m working on and my opinions on current events.
-
-## Current Active Topics:
-[Silenda](https://insensitive.co/tags/silenda)
-[Knoweth](https://insensitive.co/tags/knoweth)
-[Food](https://insensitive.co/tags/food)
-[Travel](https://insensitive.co/tags/travel)
-[Entrepreneurship/Competitions](https://insensitive.co/tags/entrepreneurship)
-
-### Archived Topics:
-[California](https://insensitive.co/tags/california)
-[Summer 2019 Recap](https://insensitive.co/tags/summer2019recap)
+## Topics I discuss 
+- [**Code**](https://insensitive.co/tags/dev)
+  - [WebSync](https://insensitive.co/tags/WebSync)
+  - [Silenda](https://insensitive.co/tags/Silenda)... archived and dropped as a project
+  - [Knoweth](https://insensitive.co/tags/Knoweth)... archived and dropped as a project
+  
+- [**Food**](https://insensitive.co/tags/food)
+  
+- [**Travel**](https://insensitive.co/tags/travel)
+  - [California](https://insensitive.co/tags/California)
+  
+- [**Entrepreneurship/Competitions**](https://insensitive.co/tags/entrepreneurship)
+  - [Scintillating](https://blog.scintillating.us)
 
 ## About
-Hey there! I am a student who is interested in a few subjects, including technology, coding, writing and politics, and as such decided to restart blogging after my last one went down a few years ago.
+Hey there! I am a student who is interested in a few subjects, including technology, coding, writing and politics. I've been wanting to restart blogging after my last one went down a few years ago, but have been procrastinating a lot instead.
 
 I’ll be posting information about projects I’m working on and my opinions on current events.
 
