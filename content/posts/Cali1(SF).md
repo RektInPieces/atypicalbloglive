@@ -12,7 +12,7 @@ comments: true
 tags: ["California", "Travel"]
 ---
 
-## San Francisco - Larger and Hillier than I thought
+## San Francisco Day 1? - Larger and Hillier than I thought
 
 Yeah, this is a little bit late (~6 months after? I mean, I totally started this the day after I got back, but y'know). Still, to be entirely honest, stepping into San Francisco was a bit surreal. The busy streets were way too steep, and I felt as if I tripped on one of them, then I would go rolling down for miles with only a few trucks to stop me. 
 
@@ -34,8 +34,10 @@ So instead, we settled for In N Out, where I could literally only eat fries (I d
 
 After that, we just roamed around the wharf in the night. It was pretty interesting to hear seals, but I didn't really see them that night (note: I later saw them in the morning, but failed to take a picture).
 
-We looked through some souvenier shops before doing something I wouldn't recommend: roaming San Francisco by ourselves after midnight. 
+We looked through some souvenir shops before doing something I wouldn't recommend: roaming San Francisco by ourselves after midnight. 
 
 ## Uh, why not?
 
-Well, we were definitely inexperienced with San Fran, and also under the age of 18. The 
+Well, we were definitely inexperienced with San Fran, and also under the age of 18. The idea of roaming by ourselves may have felt great, but in practice, was a lot less intelligent than we thought. 
+
+We ran through the streets of SF, and through random chance, arrived at the Coit Tower in the middle of the 
