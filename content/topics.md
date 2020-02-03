@@ -9,14 +9,14 @@ aliases = ["about-us","about-hugo","contact"]
 
 ## Topics I discuss 
 - [**Code**](https://insensitive.co/tags/dev)
-  - [WebSync](https://insensitive.co/tags/WebSync)
-  - [Silenda](https://insensitive.co/tags/Silenda)... archived and dropped as a project
-  - [Knoweth](https://insensitive.co/tags/Knoweth)... archived and dropped as a project
+  - [WebSync](https://insensitive.co/tags/websync)
+  - [Silenda](https://insensitive.co/tags/silenda)... archived and dropped as a project
+  - [Knoweth](https://insensitive.co/tags/knoweth)... archived and dropped as a project
   
 - [**Food**](https://insensitive.co/tags/food)
   
 - [**Travel**](https://insensitive.co/tags/travel)
-  - [California](https://insensitive.co/tags/California)
+  - [California](https://insensitive.co/tags/california)
   
 - [**Entrepreneurship/Competitions**](https://insensitive.co/tags/entrepreneurship)
   - [Scintillating](https://blog.scintillating.us)
