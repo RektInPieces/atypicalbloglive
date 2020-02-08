@@ -42,14 +42,20 @@ Well, we were definitely inexperienced with San Fran, and also under the age of 
 
 We ran through the streets of SF, and through random chance, arrived at the Coit Tower in the middle of the night. 
 
-![Coit](/images/Travel/California/SanFrancisco/Pic_2019_07_13_23_33_36.jpg)
+![Coit](/images/Travel/California/SanFrancisco/Pic_2019_07_13_23_33_36.jpg  )
 
-Although we couldn't enter at that hour, we still got a very good view of San Francisco, which I would have taken a picture of, if not for the worried voice of my friend killing the mood. I still remember exactly what he said, "hey, I think there's some things growling over there...?"
-
-...
+Although we couldn't enter at that hour, we still got a very good view of San Francisco, which I would have taken a picture of, if not for the worried voice of my friend killing the mood. I still remember exactly what he said, "hey, I think there's something that is growling over there...?" 
 
 ...
 
-...really? That's what happens? We encountered a pack of particularly brave coyotes on the top of the hill. Who knows how they got there, but we didn't really stick around long enough to find out. 
+...
 
-We ran down the step  
+...uhhhh? To be honest, I don't even know how that could happen. We encountered a pack of particularly brave coyotes on the top of the hill. Who knows how they got there, but we didn't  stick around long enough to find out. 
+
+We ran down the steps, not really stopping to look back. We didn't really keep in mind how loud our footsteps and shouts were until we were mostly in the all the way down through the surrounding, gated neighborhood. 
+
+Yet, we kept on running (at one point running into a tenant of the surrounding area, who got equally spooked by the possibility of coyotes and ran back inside his house).
+
+[//]: # (Add image of map) 
+
+Through possibly sheer luck, we ended up in Chinatown.
